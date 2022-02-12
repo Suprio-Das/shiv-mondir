@@ -1,0 +1,25 @@
+/* --------------------------------------------------
+                google fonts relation
+----------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&family=Poppins&display=swap');
+/* --------------------------------------------------
+                Primary Styles
+----------------------------------------------------- */
+body{
+    font-family: 'Hind Siliguri','Poppins', sans-serif !important;
+}
+
+.primary-btn{
+    /* background-color: rgb(123, 0, 211); */
+    background-color: rgb(99 44 139);
+}
+.primary-btn:hover{
+    background-color: rgb(123, 0, 211);
+}
+/* --------------------------------------------------
+                Navigation Section
+----------------------------------------------------- */
+.nav-title{
+    padding: 5px 10px;
+    border-radius: 35px;
+}
