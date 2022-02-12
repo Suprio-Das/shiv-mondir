@@ -19,7 +19,28 @@ body{
 /* --------------------------------------------------
                 Navigation Section
 ----------------------------------------------------- */
+
 .nav-title{
     padding: 5px 10px;
     border-radius: 35px;
+}
+
+/* --------------------------------------------------
+                Footer Section
+----------------------------------------------------- */
+footer{
+    background-color: #6028ec;
+    color: white;
+}
+#email-link{
+    text-decoration: none;
+}
+#email-link:hover{
+    text-decoration: underline;
+}
+.phone-link{
+    text-decoration: none;
+}
+.phone-link:hover{
+    text-decoration: underline;
 }
